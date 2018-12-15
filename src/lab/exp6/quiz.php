@@ -134,7 +134,7 @@ function getOptions(opt){
 
   <tr><td>
     <li>
-	     If the charge on the partcles is doubled the force is unchanged.
+	     If the charge on the particles is doubled the force is unchanged.
       <ol type="True">
 	 <li><input type="radio" name="Q4" value="True">True</li>
 	 <li><input type="radio" name="Q4" value="False">False</li>
@@ -156,7 +156,7 @@ function getOptions(opt){
 
   <tr><td>
      <li>
-	If the distance between the particles is halved,the force is quadrapoled.
+	If the distance between the particles is halved,the force is quadrupoled.
       <ol type="True">
 	 <li><input type="radio" name="Q5" value="True">True</li>
 	 <li><input type="radio" name="Q5" value="False">False</li>
