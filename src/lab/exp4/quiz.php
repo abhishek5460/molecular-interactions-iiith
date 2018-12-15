@@ -112,7 +112,7 @@ function getOptions(opt){
 
   <tr><td>
      <li>
-	 The potential energy for a diatomic molecule at large seperations is zero
+	 The potential energy for a diatomic molecule at large separations is zero
       <ol type="True">
 	 <li><input type="radio" name="Q3" value="True">True</li>
 	 <li><input type="radio" name="Q3" value="False">False</li>
@@ -134,7 +134,7 @@ function getOptions(opt){
 
   <tr><td>
     <li>
-	     The energy is minimum when a molcule is minimum when one molecule is at the center of another molecule.
+	     The energy is minimum when a molecule is minimum when one molecule is at the center of another molecule.
       <ol type="False">
 	 <li><input type="radio" name="Q4" value="True">True</li>
 	 <li><input type="radio" name="Q4" value="False">False</li>
