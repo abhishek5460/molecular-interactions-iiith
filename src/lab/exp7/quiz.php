@@ -112,7 +112,7 @@ function getOptions(opt){
 
   <tr><td>
      <li>
-	  The  electrostatic potential energy is inversely proprotional to 1/r .
+	  The  electrostatic potential energy is inversely proportional to 1/r .
       <ol type="True">
 	 <li><input type="radio" name="Q3" value="True">True</li>
 	 <li><input type="radio" name="Q3" value="False">False</li>
